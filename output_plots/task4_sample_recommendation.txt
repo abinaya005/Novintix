@@ -1,0 +1,68 @@
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                     MEDICAL RECOMMENDATION REPORT                          ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+PATIENT PROFILE:
+├─ Age: 72 years
+├─ Medical Condition: Asthma
+├─ Current Medication: Ibuprofen
+└─ Test Result: Abnormal
+
+CLINICAL ASSESSMENT:
+
+⚠ ATTENTION: Test results show abnormal findings that require further evaluation.
+Immediate follow-up is recommended to address these concerns.
+
+GERIATRIC CONSIDERATIONS:
+- Monitor for age-related complications
+- Regular assessment of medication side effects
+- Consider comorbidities and polypharmacy risks
+- Ensure adequate nutrition and hydration
+
+ASTHMA MANAGEMENT RECOMMENDATIONS:
+✓ Continue controller medications as prescribed
+✓ Keep rescue inhaler accessible at all times
+✓ Monitor peak flow readings regularly
+✓ Identify and avoid asthma triggers (allergens, irritants)
+✓ Follow asthma action plan, especially during exacerbations
+✓ Get annual flu vaccination
+✓ Schedule pulmonary function tests as recommended
+
+MEDICATION GUIDANCE:
+- Current Prescription: Ibuprofen
+- Take medication as directed, do not skip doses
+- Report any side effects or adverse reactions immediately
+- Do not discontinue medication without consulting your doctor
+- Keep track of refills and maintain adequate supply
+
+LIFESTYLE & PREVENTIVE CARE:
+├─ Nutrition: Eat a balanced diet rich in fruits, vegetables, and whole grains
+├─ Hydration: Drink adequate water (8-10 glasses daily)
+├─ Exercise: Regular physical activity based on your ability
+├─ Sleep: Aim for 7-9 hours of quality sleep per night
+├─ Stress: Practice stress management techniques
+└─ Preventive: Stay up-to-date with vaccinations and screenings
+
+FOLLOW-UP PLAN:
+
+⚠ URGENT: Schedule follow-up within 1-2 weeks
+- Repeat relevant tests to confirm findings
+- Consider specialist referral if needed
+- Possible medication adjustment
+
+EMERGENCY CONTACT:
+Contact your healthcare provider or visit emergency room if you experience:
+• Severe chest pain or difficulty breathing
+• Sudden severe headache or vision changes
+• Signs of allergic reaction to medication
+• Uncontrolled bleeding or severe injury
+• Any symptom that causes significant concern
+
+═══════════════════════════════════════════════════════════════════════════
+
+This recommendation is generated based on the patient's current medical profile.
+Always consult with a licensed healthcare provider for personalized medical advice.
+
+Generated: November 18, 2025
+═══════════════════════════════════════════════════════════════════════════
