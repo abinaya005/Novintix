@@ -55,4 +55,3 @@ Contact your healthcare provider or visit emergency room if you experience:
 This recommendation is generated based on the patient's current medical profile.
 Always consult with a licensed healthcare provider for personalized medical advice.
 
-Generated: November 18, 2025
