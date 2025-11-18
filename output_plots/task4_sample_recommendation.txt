@@ -1,48 +1,40 @@
-
-╔════════════════════════════════════════════════════════════════════════════╗
-║                     MEDICAL RECOMMENDATION REPORT                          ║
-╚════════════════════════════════════════════════════════════════════════════╝
+﻿MEDICAL RECOMMENDATION REPORT
 
 PATIENT PROFILE:
-├─ Age: 72 years
-├─ Medical Condition: Asthma
-├─ Current Medication: Ibuprofen
-└─ Test Result: Inconclusive
+- Age: 53 years
+- Medical Condition: Arthritis
+- Current Medication: Paracetamol
+- Test Result: Inconclusive
 
 CLINICAL ASSESSMENT:
 
-⚠ NOTE: Test results are inconclusive and may require additional testing.
+NOTE: Test results are inconclusive and may require additional testing.
 Further diagnostic procedures are recommended for accurate assessment.
 
-GERIATRIC CONSIDERATIONS:
-- Monitor for age-related complications
-- Regular assessment of medication side effects
-- Consider comorbidities and polypharmacy risks
-- Ensure adequate nutrition and hydration
 
-ASTHMA MANAGEMENT RECOMMENDATIONS:
-✓ Continue controller medications as prescribed
-✓ Keep rescue inhaler accessible at all times
-✓ Monitor peak flow readings regularly
-✓ Identify and avoid asthma triggers (allergens, irritants)
-✓ Follow asthma action plan, especially during exacerbations
-✓ Get annual flu vaccination
-✓ Schedule pulmonary function tests as recommended
+ARTHRITIS MANAGEMENT RECOMMENDATIONS:
+- Continue anti-inflammatory medications as prescribed
+- Engage in low-impact exercises (swimming, walking, yoga)
+- Apply heat or cold therapy for pain relief
+- Maintain healthy weight to reduce joint stress
+- Consider physical therapy for joint mobility
+- Use assistive devices if needed for daily activities
+- Monitor for medication side effects (GI issues with NSAIDs)
 
 MEDICATION GUIDANCE:
-- Current Prescription: Ibuprofen
+- Current Prescription: Paracetamol
 - Take medication as directed, do not skip doses
 - Report any side effects or adverse reactions immediately
 - Do not discontinue medication without consulting your doctor
 - Keep track of refills and maintain adequate supply
 
 LIFESTYLE & PREVENTIVE CARE:
-├─ Nutrition: Eat a balanced diet rich in fruits, vegetables, and whole grains
-├─ Hydration: Drink adequate water (8-10 glasses daily)
-├─ Exercise: Regular physical activity based on your ability
-├─ Sleep: Aim for 7-9 hours of quality sleep per night
-├─ Stress: Practice stress management techniques
-└─ Preventive: Stay up-to-date with vaccinations and screenings
+- Nutrition: Eat a balanced diet rich in fruits, vegetables, and whole grains
+- Hydration: Drink adequate water (8-10 glasses daily)
+- Exercise: Regular physical activity based on your ability
+- Sleep: Aim for 7-9 hours of quality sleep per night
+- Stress: Practice stress management techniques
+- Preventive: Stay up-to-date with vaccinations and screenings
 
 FOLLOW-UP PLAN:
 
@@ -52,16 +44,15 @@ FOLLOW-UP PLAN:
 
 EMERGENCY CONTACT:
 Contact your healthcare provider or visit emergency room if you experience:
-• Severe chest pain or difficulty breathing
-• Sudden severe headache or vision changes
-• Signs of allergic reaction to medication
-• Uncontrolled bleeding or severe injury
-• Any symptom that causes significant concern
+- Severe chest pain or difficulty breathing
+- Sudden severe headache or vision changes
+- Signs of allergic reaction to medication
+- Uncontrolled bleeding or severe injury
+- Any symptom that causes significant concern
 
-═══════════════════════════════════════════════════════════════════════════
+---
 
 This recommendation is generated based on the patient's current medical profile.
 Always consult with a licensed healthcare provider for personalized medical advice.
 
 Generated: November 18, 2025
-═══════════════════════════════════════════════════════════════════════════
