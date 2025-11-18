@@ -157,9 +157,16 @@ print("\n[2.1] Preparing dataset for prediction...")
 # Create a copy for modeling
 df_model = df.copy()
 
-# Select features for prediction
+# Engineer additional features
+df_model['Age_Group'] = pd.cut(df_model['Age'], bins=[0, 18, 35, 50, 65, 100], 
+                                labels=['Child', 'Young', 'Middle', 'Senior', 'Elderly'])
+df_model['Billing_Category'] = pd.cut(df_model['Billing Amount'], bins=5, 
+                                       labels=['Very Low', 'Low', 'Medium', 'High', 'Very High'])
+
+# Select features for prediction - expanded feature set
 feature_columns = ['Age', 'Gender', 'Blood Type', 'Medical Condition', 
-                   'Admission Type', 'Billing Amount', 'Medication']
+                   'Admission Type', 'Billing Amount', 'Medication', 
+                   'Room Number', 'Age_Group', 'Billing_Category']
 
 # Prepare data
 X = df_model[feature_columns].copy()
@@ -169,7 +176,8 @@ print(f"Target variable (Test Results) distribution:\n{y.value_counts()}")
 
 # Encode categorical variables
 label_encoders = {}
-categorical_columns = ['Gender', 'Blood Type', 'Medical Condition', 'Admission Type', 'Medication']
+categorical_columns = ['Gender', 'Blood Type', 'Medical Condition', 'Admission Type', 
+                       'Medication', 'Age_Group', 'Billing_Category']
 
 for col in categorical_columns:
     le = LabelEncoder()
@@ -197,9 +205,18 @@ scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
-# Train model
-print("\n[2.3] Training Random Forest Classifier...")
-model = RandomForestClassifier(n_estimators=100, random_state=42, max_depth=10, min_samples_split=5)
+# Train improved model with better hyperparameters
+print("\n[2.3] Training Optimized Random Forest Classifier...")
+model = RandomForestClassifier(
+    n_estimators=200,           # Increased from 100
+    max_depth=20,               # Increased from 10
+    min_samples_split=2,        # Decreased from 5
+    min_samples_leaf=1,
+    max_features='sqrt',
+    random_state=42,
+    n_jobs=-1,                  # Use all CPU cores
+    class_weight='balanced'     # Handle class imbalance
+)
 model.fit(X_train_scaled, y_train)
 print("✓ Model trained successfully!")
 

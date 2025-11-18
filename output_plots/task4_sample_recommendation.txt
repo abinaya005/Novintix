@@ -7,12 +7,12 @@ PATIENT PROFILE:
 ├─ Age: 72 years
 ├─ Medical Condition: Asthma
 ├─ Current Medication: Ibuprofen
-└─ Test Result: Abnormal
+└─ Test Result: Inconclusive
 
 CLINICAL ASSESSMENT:
 
-⚠ ATTENTION: Test results show abnormal findings that require further evaluation.
-Immediate follow-up is recommended to address these concerns.
+⚠ NOTE: Test results are inconclusive and may require additional testing.
+Further diagnostic procedures are recommended for accurate assessment.
 
 GERIATRIC CONSIDERATIONS:
 - Monitor for age-related complications
@@ -46,10 +46,9 @@ LIFESTYLE & PREVENTIVE CARE:
 
 FOLLOW-UP PLAN:
 
-⚠ URGENT: Schedule follow-up within 1-2 weeks
-- Repeat relevant tests to confirm findings
-- Consider specialist referral if needed
-- Possible medication adjustment
+- Schedule follow-up within 2-4 weeks
+- Additional diagnostic tests may be ordered
+- Continue current treatment plan in the interim
 
 EMERGENCY CONTACT:
 Contact your healthcare provider or visit emergency room if you experience:
